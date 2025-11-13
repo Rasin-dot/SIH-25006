@@ -83,7 +83,7 @@ Government backing: Aligns with DoAH&D goals, improving adoption.
 <img width="1536" height="1024" alt="ChatGPT Image Nov 13, 2025, 10_55_46 AM" src="https://github.com/user-attachments/assets/0ab7a721-03c3-4dc1-88f0-457338bdca28" />
 
 
-##Impact and Benefits
+## Impact and Benefits
 ```
 Potential Impact on Target Audience
 Helps farmers detect risks before they become outbreaks.
